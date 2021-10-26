@@ -1,7 +1,8 @@
 ---
 layout: page
-title: TSMP | Docs
+title: Wiki
 has_children: true
 nav_order: 1
 ---
-# Welcome to the TSMP docs!
+
+# Welcome to the Tristan SMP Wiki
