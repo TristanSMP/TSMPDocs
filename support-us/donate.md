@@ -20,7 +20,7 @@
 
 > **Current Donator List** They all have @TSMP - Supporter role on the Discord!
 
-> **Donator List**
+> **OG Donators List**
 >
 > @tristan#0005 $10&#x20;
 >
