@@ -20,4 +20,8 @@ You can simply vote via discordservers.com [here](https://discordservers.com/pan
 
 You can vote for Evie Bot on top.gg [here](https://top.gg/bot/807543126424158238/vote)
 
+## Vote for the SMP on Planet MC
+
+You can vote for `tristansmp.com` [here](https://www.planetminecraft.com/server/tristan-s-smp-a-new-server/vote/)
+
 ##
